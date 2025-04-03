@@ -122,6 +122,7 @@ This will download episode 12 and 15 for "the-definition-series" course and all 
 $ php start.php -s "inertia-2-unleashed" -e "12,15" -s "the-definition-series" -l "en,en-x-autogen"
 ```
 
+
 ## Downloading subtitles
 
 If `SUB_LANGS` is set in the `.env` file then subtitle files (.vtt) will be downloaded for each specified language code alongside the video file.

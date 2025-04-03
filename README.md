@@ -120,7 +120,8 @@ $ php start.php -s "nuxtjs-from-scratch" -e "12,15" -s "laravel-from-scratch" -e
 This will download episode 12 and 15 for "the-definition-series" course and all episodes for "inertia-2-unleashed" course.
 ```sh
 $ php start.php -s "inertia-2-unleashed" -e "12,15" -s "the-definition-series" -l "en,en-x-autogen"
-``
+```
+
 
 ## Downloading subtitles
 
